@@ -1,0 +1,1 @@
+![example of the toothpick number sequence visualisation](https://i.gyazo.com/6e3db111f3a1ce5b4fa17bb626863fce.gif)
